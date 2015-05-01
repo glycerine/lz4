@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pierrec/lz4"
+	"github.com/glycerine/lz4"
 )
 
 // testBuffer wraps bytes.Buffer to remove the WriteTo() and ReadFrom() methods.

@@ -21,7 +21,7 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/pierrec/xxHash/xxHash32"
+	"github.com/glycerine/xxHash-1/xxHash32"
 )
 
 const (
